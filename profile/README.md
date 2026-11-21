@@ -16,7 +16,7 @@ Works with any MCP-compatible client — Claude Desktop, Claude Code, Cursor, Co
 - 📚 [Documentation](https://noorle.com/docs/)
 - 🔌 [MCP gateways](https://noorle.com/platform/mcp-gateways/)
 - 🧩 [Plugin examples](https://github.com/noorle/plugin-examples) · [CLI releases](https://github.com/noorle/cli-releases)
-- 💲 [Pricing](https://noorle.com/pricing/) — $10 free credit, no credit card required
+- 💲 [Pricing](https://noorle.com/pricing/) — $10 trial credit · card required for verification
 
 ## Connect an MCP client
 
